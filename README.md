@@ -81,3 +81,7 @@ If the PBIX file cannot locate the data source after download:
 2. Go to **Transform Data → Data Source Settings**.
 3. Click **Change Source**.
 4. Select the included **Sales_Dataset.xlsx** file.
+
+## 👤 Author
+
+**Wenting Luo**
